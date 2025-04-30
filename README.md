@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm DDRMin</h1>
 
 - 📫 How to reach me **deepthidamruvan@gmail.com**
 
@@ -34,7 +35,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrmin&layout=compact&theme=dark" alt=ddrmin />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrmin&langs_count=8&theme=dark" alt=ddrmin />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ddrmin&show_icons=true&locale=en&theme=dark" alt="ddrmin" /></p>
 
