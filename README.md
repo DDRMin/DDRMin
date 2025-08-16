@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Deepthi Damruwan (DDRMin)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,22 +30,22 @@
 
 ### Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </div>
 
 ### Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,fastapi" />
 </div>
 
 ### Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </div>
 
 ### DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,figma,postman" />
 </div>
 
 ---
@@ -93,9 +93,9 @@
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Architecture & DevOps Philosophy
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%20architecture%20is%20like%20a%20good%20joke%20-%20if%20you%20have%20to%20explain%20it,%20it%27s%20probably%20not%20that%20good&author=Anonymous" />
 </div>
 
 ---
@@ -103,5 +103,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  ### Show some ❤️ by starring some of the repositories!
+  ### ***
 </div>
