@@ -95,7 +95,7 @@
 
 ## 💭 Architecture & DevOps Philosophy
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Good%20architecture%20is%20like%20a%20good%20joke%20-%20if%20you%20have%20to%20explain%20it,%20it%27s%20probably%20not%20that%20good&author=Anonymous" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Automate%20everything%20you%20can,%20monitor%20everything%20you%20deploy,%20and%20always%20design%20for%20failure.&author=Anonymous" />
 </div>
 
 ---
