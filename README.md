@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm passionate about **data science** and **full-stack development**
-- 🌱 Currently exploring **modern web technologies** and **cloud platforms**
+- 🔭 I'm passionate about **DevOps** and **full-stack development**
+- 🌱 Currently exploring **quantum computing** and **cloud platforms**
 - 💡 I love solving complex problems and building innovative solutions
 - 🎯 Always eager to learn new technologies and best practices
 - ⚡ Fun fact: I enjoy turning coffee into code! ☕
