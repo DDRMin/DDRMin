@@ -25,7 +25,7 @@
 
 ### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,javascript,typescript" />
 </div>
 
 ### Frontend Development
