@@ -17,7 +17,6 @@
 - 🌱 Currently exploring **quantum computing** and **cloud platforms**
 - 💡 I love solving complex problems and building innovative solutions
 - 🎯 Always eager to learn new technologies and best practices
-- ⚡ Fun fact: I enjoy turning coffee into code! ☕
 
 ---
 
