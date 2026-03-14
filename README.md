@@ -69,22 +69,6 @@
 
 ---
 
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/Deepthi%20Damruwan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:deepthidamruvan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/ddrmin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
 ## 💭 Architecture & DevOps Philosophy
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Automate%20everything%20you%20can,%20monitor%20everything%20you%20deploy,%20and%20always%20design%20for%20failure.&author=Anonymous" />
