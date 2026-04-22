@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepthi%20Damruwan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DDRMin%20%E2%80%94%20Building%20systems%20that%20scale&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DDRMin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20systems%20that%20scale&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@ type Engineer struct {
 func main() {
     me := Engineer{
         Name:      "Deepthi Damruwan",
-        Role:      "Full-Stack & DevOps Engineer",
+        Role:      "CSE Undergraduate",
         Interests: []string{"Distributed Systems", "Cloud Architecture", "Developer Tooling"},
         Currently: "Designing resilient microservices & automating everything",
     }
