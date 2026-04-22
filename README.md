@@ -1,22 +1,5 @@
 # Hi there! 👋 I'm Deepthi Damruwan (DDRMin)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ddrmin&label=Profile%20views&color=0e75b6&style=flat" alt="ddrmin" />
-  <img src="https://img.shields.io/github/followers/ddrmin?label=Followers&style=social" alt="GitHub Badge">
-</div>
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm passionate about **DevOps** and **full-stack development**
-- 🌱 Currently exploring **quantum computing** and **cloud platforms**
-- 💡 I love solving complex problems and building innovative solutions
-- 🎯 Always eager to learn new technologies and best practices
 
 ---
 
@@ -24,27 +7,64 @@
 
 ### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,typescript" />
 </div>
+
+
 
 ### Frontend Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </div>
 
+
+
 ### Backend Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,fastapi" />
 </div>
+
+
 
 ### Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </div>
 
+
+
+### Messaging & Streaming
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</div>
+
+<p align="center">
+  NATS
+</p>
+
+
+
+### API Gateway & Reverse Proxy
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</div>
+
+<p align="center">
+  Traefik • Caddy
+</p>
+
+
+
+### Cloud Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+</div>
+
+
+
 ### DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,figma,postman" />
 </div>
 
 ---
